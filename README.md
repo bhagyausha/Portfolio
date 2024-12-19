@@ -2,7 +2,7 @@
 
 ## 🌟 About Me  
 
-                                                ![Data Enthusiast](./DALL%C2%B7E%202024-12-19%2015.40.39%20-%20A%20vibrant%2C%20creative%20illustration%20of%20a%20young%20professional%20woman%20surrounded%20by%20data%20science%20and%20technology%20elements.%20She%20is%20depicted%20with%20dark%20hair%20and%20.webp)
+                                                ![Data Enthusiast](./DALL·E 2024-12-19 15.40.39 - A vibrant, creative illustration of a young professional woman surrounded by data science and technology elements. She is depicted with dark hair and .webp)
                                                   
 I'm a passionate **Data Scientist** and **Machine Learning Enthusiast** with a background in **Data Engineering** and **Cloud Computing**. I’m currently enhancing my skills in **AI and Data Science** through specialized training at **Le Wagon** and working on real-world projects to solve complex problems.  
 
