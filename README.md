@@ -6,14 +6,13 @@
 <p align="center"> 
 
                                                   
-I'm a passionate **Data Scientist** and **Machine Learning Enthusiast** with a background in **Data Engineering** and **Cloud Computing**. I’m currently enhancing my skills in **AI and Data Science** through specialized training at **Le Wagon** and working on real-world projects to solve complex problems.  
-
+I'm a passionate **Data Scientist** and **Machine Learning Enthusiast** with a background in **Data Engineering** and **Cloud Computing**. Currently, I'm deepening my expertise in AI and Data Science through specialized training at Le Wagon, where I work on real-world projects that solve complex problems.
 
 🔭 **Current Focus:**  
-I'm upskilling in **machine learning**, **data analysis**, and **AI solutions**. I’m diving deeper into the world of AI and Data Science at Le Wagon, where I’m honing my expertise by tackling real-world challenges.
+I’m refining my expertise in **machine learning**, **data analysis**, and **AI solutions**, with a focus on **leadership**, ready to take on a challenging role that drives innovation and tackles real-world problems.
 
 🌱 **Learning & Growing:**  
-Currently, I’m learning more about **MLOps**, **cloud services** for deployment, and **generative AI**. 
+Upskilling in **machine learning**, **data analysis**, and **AI solutions**, with a specific interest in **MLOps**, **cloud deployment**, and **generative AI**.
 
 💼 **Work Experience:**  
 - **Data Scientist** at **Ericsson**, driving predictive analytics and developing APIs for cross-functional teams.
