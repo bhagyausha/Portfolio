@@ -2,7 +2,8 @@
 
 ## 🌟 About Me  
 
-                                                ![Data Enthusiast](image)
+                                          ![Data Enthusiast](https://raw.githubusercontent.com/bhagyausha/bhagyausha/main/image)
+
                                                   
 I'm a passionate **Data Scientist** and **Machine Learning Enthusiast** with a background in **Data Engineering** and **Cloud Computing**. I’m currently enhancing my skills in **AI and Data Science** through specialized training at **Le Wagon** and working on real-world projects to solve complex problems.  
 
