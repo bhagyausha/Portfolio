@@ -1,8 +1,8 @@
 ## 🌟 About Me  
-
-<p align="center">
 # Hi there, I'm Bhagyalakshmi 👋
-<img src="https://github.com/bhagyausha/bhagyausha/blob/main/Profile.webp" width="40%"> </p>
+<p align="center">
+
+<img src="https://github.com/bhagyausha/bhagyausha/blob/main/Profile.webp" width="30%"> </p>
 <p align="center"> 
 
                                                   
