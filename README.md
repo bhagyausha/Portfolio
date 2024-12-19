@@ -35,7 +35,6 @@ I accidentally landed in data science but fell in love with how data can transfo
 ![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?logo=xgboost&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
-![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
 
 **Libraries & Tools:**  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)  
