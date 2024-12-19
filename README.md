@@ -1,12 +1,14 @@
 # Hi there, I'm Bhagyalakshmi 👋
 
-I'm a passionate **Data Scientist** and **Machine Learning Enthusiast** with a background in **Data Engineering** and **Cloud Computing**. I’m currently enhancing my skills in **AI and Data Science** through specialized training at **Le Wagon** and working on real-world projects to solve complex problems.  
+## 🌟 About Me  
 
-Currently, I’m diving deeper into the world of AI and Data Science at Le Wagon, where I’m honing my expertise by tackling real-world challenges. My passion lies in crafting intelligent solutions that not only drive business impact but also tell compelling stories through data.  
+                                                ![Data Enthusiast](./DALL%C2%B7E%202024-12-19%2015.40.39%20-%20A%20vibrant%2C%20creative%20illustration%20of%20a%20young%20professional%20woman%20surrounded%20by%20data%20science%20and%20technology%20elements.%20She%20is%20depicted%20with%20dark%20hair%20and%20.webp)
+                                                  
+I'm a passionate **Data Scientist** and **Machine Learning Enthusiast** with a background in **Data Engineering** and **Cloud Computing**. I’m currently enhancing my skills in **AI and Data Science** through specialized training at **Le Wagon** and working on real-world projects to solve complex problems.  
 
 
 🔭 **Current Focus:**  
-I'm upskilling in **machine learning**, **data analysis**, and **AI solutions**. I’m excited about deploying scalable models and improving business processes with the power of data.
+I'm upskilling in **machine learning**, **data analysis**, and **AI solutions**. I’m diving deeper into the world of AI and Data Science at Le Wagon, where I’m honing my expertise by tackling real-world challenges.
 
 🌱 **Learning & Growing:**  
 Currently, I’m learning more about **MLOps**, **cloud services** for deployment, and **generative AI**. 
@@ -45,7 +47,6 @@ I accidentally landed in data science but fell in love with how data can transfo
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
 ![SAP HANA](https://img.shields.io/badge/-SAP%20HANA-0FAAFF?logo=sap&logoColor=white)
-
 
 ---
 
