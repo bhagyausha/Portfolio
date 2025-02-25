@@ -85,6 +85,7 @@ I accidentally landed in data science but fell in love with how data can transfo
 
 
 ### 🩺𝐒𝐤𝐢𝐧 𝐋𝐞𝐧𝐬: 𝐄𝐚𝐫𝐥𝐲 𝐝𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧, 𝐨𝐧𝐞 𝐬𝐜𝐚𝐧 𝐚𝐭 𝐚 𝐭𝐢𝐦𝐞!
+[🔗 View on GitHub](https://github.com/bhagyausha/skin_lens)
 
 SkinLens detects skin conditions using AI. It processes images and provides real-time health insights.
 
@@ -96,6 +97,8 @@ SkinLens detects skin conditions using AI. It processes images and provides real
 - Model: ConvNeXtLarge (CNN) trained on the ISIC Archive dataset for skin disease classification.
 
 ### 🎬Movie Recommendation System
+[🔗 View on GitHub](https://github.com/bhagyausha/movie-recommendation-system)
+
 A system that suggests movies based on your preferences and past ratings.
 
 #### Key Features:
