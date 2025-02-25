@@ -86,37 +86,24 @@ I accidentally landed in data science but fell in love with how data can transfo
 
 ### 🩺𝐒𝐤𝐢𝐧 𝐋𝐞𝐧𝐬: 𝐄𝐚𝐫𝐥𝐲 𝐝𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧, 𝐨𝐧𝐞 𝐬𝐜𝐚𝐧 𝐚𝐭 𝐚 𝐭𝐢𝐦𝐞!
 
-SkinLens is a powerful platform designed to quickly and accurately detect skin conditions. By utilizing advanced computer vision and machine learning techniques, it delivers real-time insights to support better decision-making.
-
-#### 𝐇𝐨𝐰 𝐈𝐭 𝐖𝐨𝐫𝐤𝐬:
-- Image Preprocessing: Enhances raw images for optimal performance with our CNN model (ConvNeXtLarge).
-- Model Training: Uses a large dataset to detect patterns in skin conditions.
-- Clinical Validation: Tested on clinical data, validated by dermatologists.
-- Personalized Evaluation: Delivers personalized health insights based on user inputs.
+SkinLens detects skin conditions using AI. It processes images and provides real-time health insights.
 
 #### 𝐊𝐞𝐲 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬:
-- AI-Driven Analysis: Fast, accurate predictions based on a robust dataset.
-- Real-Time Results: Immediate insights for better decisions.
+- AI-powered analysis for quick predictions.
+- Real-time results to support better decision-making.
 
 #### 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞:
 - Model: ConvNeXtLarge (CNN) trained on the ISIC Archive dataset for skin disease classification.
-- Performance: Strong results with metrics like confusion matrix, classification report, and learning curve.
 
 ### 🎬Movie Recommendation System
-A smart Movie Recommendation System that suggests films based on user preferences and past interactions. Built using machine learning techniques for personalized recommendations.
+A system that suggests movies based on your preferences and past ratings.
 
-#### Key Highlights:
-- Content-Based Filtering – Recommends movies by analyzing genres, plot, and cast.
-- Collaborative Filtering – Suggests movies based on user ratings and preferences.
-- Hybrid Approach – Combines both methods for improved accuracy.
-- Efficient Feature Engineering – Uses TF-IDF, cosine similarity, and matrix factorization.
-- Interactive Web App – Built with Flask/Streamlit for easy access.
+#### Key Features:
+- Recommends movies using content and collaborative filtering.
+- Interactive web app built with Flask/Streamlit.
 
-#### 🚀 Technologies Used:
-Python | Scikit-Learn | Pandas | Numpy | Surprise (SVD Algorithm) | Flask/Streamlit
-
-
-
+#### Technologies Used:
+- Python, Scikit-Learn, Flask/Streamlit
 ---
 
 ---
