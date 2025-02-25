@@ -1,12 +1,12 @@
-<p align="center">
-    <img src="https://github.com/bhagyausha/bhagyausha/blob/main/Hello_gif.gif" width="300px" style="margin-right: 20px;">
-</p>
-<p align="center">
-    <img src="https://github.com/bhagyausha/bhagyausha/blob/main/Profile.webp" width="30%">
-</p>
-<h2 align="center">Hi, I'm Bhagyalakshmi 👋</h2>
-
-
+<div style="background-color: black; color: white; text-align: center; padding: 20px;">
+    <p align="center">
+        <img src="https://raw.githubusercontent.com/bhagyausha/bhagyausha/main/Hello_gif.gif" width="300px">
+    </p>
+    <p align="center">
+        <img src="https://raw.githubusercontent.com/bhagyausha/bhagyausha/main/Profile.webp" width="30%">
+    </p>
+    <h2 align="center">Hi, I'm Bhagyalakshmi 👋</h2>
+</div>
 
 ## 🌟 About Me                                                 
 I'm a passionate **Data Scientist** and **Machine Learning Enthusiast** with a background in **Data Engineering** and **Cloud Computing**. Currently, I'm deepening my expertise in AI and Data Science through specialized training at Le Wagon, where I work on real-world projects that solve complex problems.
