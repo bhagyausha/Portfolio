@@ -1,11 +1,10 @@
-<div style="background-color: black; color: white; text-align: center; padding: 20px;">
-    <p align="center">
+<p align="center">
         <img src="https://raw.githubusercontent.com/bhagyausha/bhagyausha/main/Hello_gif.gif" width="300px">
-    </p>
-    <p align="center">
+</p>
+<p align="center">
         <img src="https://raw.githubusercontent.com/bhagyausha/bhagyausha/main/Profile.webp" width="30%">
-    </p>
-    <h2 align="center">Hi, I'm Bhagyalakshmi 👋</h2>
+</p>
+<h2 align="center">Hi, I'm Bhagyalakshmi 👋</h2>
 
 ## 🌟 About Me                                                 
 I'm a passionate **Data Scientist** and **Machine Learning Enthusiast** with a background in **Data Engineering** and **Cloud Computing**. Currently, I'm deepening my expertise in AI and Data Science.
@@ -103,6 +102,7 @@ A system that suggests movies based on your preferences and past ratings.
 
 #### Technologies Used:
 - Python, Scikit-Learn, Flask/Streamlit
+
 ---
 
 ---
@@ -113,7 +113,6 @@ A system that suggests movies based on your preferences and past ratings.
 
 ---
 
-</div>
 
 Looking forward to connecting with fellow enthusiasts and data professionals! Let’s revolutionize the world with data! 🌍💡
 <div align="center">
