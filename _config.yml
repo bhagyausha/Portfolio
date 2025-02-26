@@ -7,9 +7,9 @@ bio: |
   Upskilling in **machine learning**, **data analysis**, and **AI solutions**, with a specific interest in **MLOps**, **cloud deployment**, and **generative AI**.
 
 socials:
-  linkedin: https://www.linkedin.com/in/bhagyausha/
+  Linkedin: https://www.linkedin.com/in/bhagyausha/
   email: bhagya.rajendran19@gmail.com
-  github: https://github.com/bhagyausha
+  Github: https://github.com/bhagyausha
 
 skills:
   - Machine Learning
@@ -38,7 +38,7 @@ projects:
   - name: Movie Recommendation System
     description: |
       A system that suggests movies based on your preferences and past ratings.
-    url: https://github.com/bhagyausha/movie-recommendation-system
+    URL: https://github.com/bhagyausha/movie-recommendation-system
     key_features:
       - Recommends movies using content and collaborative filtering.
       - Interactive web app built with Flask/Streamlit.
