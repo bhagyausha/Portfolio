@@ -2,44 +2,12 @@
 # #logo: 
 # theme: jekyll-theme-minimal
 title: Bhagyalakshmi Ushakumari
-theme: jekyll-theme-minimal
+theme: beautiful-jekyll  # or choose another theme from the list
 avatar: https://avatars.githubusercontent.com/u/112389695?v=4
 
 header:
   name: Bhagyalakshmi Ushakumari
-  image: https://raw.githubusercontent.com/bhagyausha/bhagyausha/main/Hello_gif.gif
-  description: |
-    I'm a passionate **Data Scientist** and **Machine Learning Enthusiast** with a background in **Data Engineering** and **Cloud Computing**.
-    I’m refining my expertise in **machine learning**, **data analysis**, and **AI solutions**, with a focus on **leadership**, ready to take on a challenging role that drives innovation and tackles complex problems.
-
-bio: |
-  Upskilling in **machine learning**, **data analysis**, and **AI solutions**, with a specific interest in **MLOps**, **cloud deployment**, and **generative AI**.
-
-contact:
-  email: bhagya.rajendran19@gmail.com
-  linkedin: https://www.linkedin.com/in/bhagyausha/
-  github: https://github.com/bhagyausha
-
-projects:
-  - name: SkinLens: Early detection, one scan at a time!
-    description: AI-powered skin condition detection using ConvNeXtLarge (CNN).
-    url: https://github.com/bhagyausha/skin_lens
-
-  - name: Movie Recommendation System
-    description: A recommendation system based on user preferences.
-    url: https://github.com/bhagyausha/movie-recommendation-system
-
-skills:
-  - Python
-  - SQL
-  - TensorFlow
-  - PyTorch
-  - Azure
-  - Docker
-  - Flask
-  - FastAPI
-  - Machine Learning
-  - Data Visualization
+  image: https://avatars.githubusercontent.com/u/112389695?v=4  # Your GitHub profile picture
 
 github_stats: true
 github_activity_graph: true
