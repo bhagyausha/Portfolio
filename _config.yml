@@ -2,7 +2,7 @@
 # #logo: 
 # theme: jekyll-theme-minimal
 title: Bhagyalakshmi Ushakumari
-theme: beautiful-jekyll  # or choose another theme from the list
+theme: jekyll-theme-minimal
 avatar: https://avatars.githubusercontent.com/u/112389695?v=4
 
 header:
