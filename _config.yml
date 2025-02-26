@@ -1,0 +1,52 @@
+name: Bhagyalakshmi
+avatar: https://raw.githubusercontent.com/bhagyausha/bhagyausha/main/Profile.webp
+bio: |
+  I'm a passionate **Data Scientist** and **Machine Learning Enthusiast** with a background in **Data Engineering** and **Cloud Computing**. Currently, I'm deepening my expertise in AI and Data Science.
+  I’m refining my expertise in **machine learning**, **data analysis**, and **AI solutions**, with a focus on **leadership**, ready to take on a challenging role that drives innovation and tackles complex problems.
+  
+  Upskilling in **machine learning**, **data analysis**, and **AI solutions**, with a specific interest in **MLOps**, **cloud deployment**, and **generative AI**.
+
+socials:
+  linkedin: https://www.linkedin.com/in/bhagyausha/
+  email: bhagya.rajendran19@gmail.com
+  github: https://github.com/bhagyausha
+
+skills:
+  - Machine Learning
+  - Data Engineering
+  - Cloud Computing
+  - AI Solutions
+  - MLOps
+  - Python, SQL
+  - Azure, Docker
+  - Flask, FastAPI
+  - TensorFlow, PyTorch
+  - Data Visualization (Matplotlib, Seaborn)
+
+projects:
+  - name: SkinLens: Early detection, one scan at a time!
+    description: |
+      SkinLens detects skin conditions using AI. It processes images and provides real-time health insights.
+    url: https://github.com/bhagyausha/skin_lens
+    key_features:
+      - AI-powered analysis for quick predictions.
+      - Real-time results to support better decision-making.
+    tech_stack:
+      - ConvNeXtLarge (CNN)
+      - ISIC Archive dataset
+
+  - name: Movie Recommendation System
+    description: |
+      A system that suggests movies based on your preferences and past ratings.
+    url: https://github.com/bhagyausha/movie-recommendation-system
+    key_features:
+      - Recommends movies using content and collaborative filtering.
+      - Interactive web app built with Flask/Streamlit.
+    tech_stack:
+      - Python, Scikit-Learn
+      - Flask/Streamlit
+
+github_trophies: true
+github_stats: true
+github_activity_graph: true
+github_top_languages: true
