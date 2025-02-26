@@ -6,11 +6,11 @@ theme: jekyll-theme-minimal
 avatar: https://avatars.githubusercontent.com/u/112389695?v=4
 
 header:
-  - name: Bhagyalakshmi Ushakumari
-    image: https://raw.githubusercontent.com/bhagyausha/bhagyausha/main/Hello_gif.gif
-    description: |
-      I'm a passionate **Data Scientist** and **Machine Learning Enthusiast** with a background in **Data Engineering** and **Cloud Computing**.
-      I’m refining my expertise in **machine learning**, **data analysis**, and **AI solutions**, with a focus on **leadership**, ready to take on a challenging role that drives innovation and tackles complex problems.
+  name: Bhagyalakshmi Ushakumari
+  image: https://raw.githubusercontent.com/bhagyausha/bhagyausha/main/Hello_gif.gif
+  description: |
+    I'm a passionate **Data Scientist** and **Machine Learning Enthusiast** with a background in **Data Engineering** and **Cloud Computing**.
+    I’m refining my expertise in **machine learning**, **data analysis**, and **AI solutions**, with a focus on **leadership**, ready to take on a challenging role that drives innovation and tackles complex problems.
 
 bio: |
   Upskilling in **machine learning**, **data analysis**, and **AI solutions**, with a specific interest in **MLOps**, **cloud deployment**, and **generative AI**.
@@ -44,4 +44,3 @@ skills:
 github_stats: true
 github_activity_graph: true
 github_top_languages: true
-
