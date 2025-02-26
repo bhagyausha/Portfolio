@@ -3,12 +3,16 @@
 # theme: jekyll-theme-minimal
 title: Bhagyalakshmi Ushakumari
 theme: jekyll-theme-minimal
-avatar: https://avatars.githubusercontent.com/u/112389695?v=4
+avatar: https://avatars.githubusercontent.com/u/169951078?s=400&u=e1a2961d2d019563f676a9fa8de16c6929cf2a1c&v=4
 
 header:
   name: Bhagyalakshmi Ushakumari
-  image: https://avatars.githubusercontent.com/u/112389695?v=4  # Your GitHub profile picture
+  image: https://avatars.githubusercontent.com/u/169951078?s=400&u=e1a2961d2d019563f676a9fa8de16c6929cf2a1c&v=4  # Your GitHub profile picture
 
-github_stats: true
-github_activity_graph: true
-github_top_languages: true
+# GitHub integration
+github:
+  username: bhagyausha
+  stats: true  # Show GitHub stats
+  activity_graph: true  # Show GitHub activity graph
+  top_languages: true  # Show top languages used on GitHub
+
